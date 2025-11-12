@@ -6,11 +6,13 @@
   <p align="center">
     <img width="500" alt="Kookmin University" src="https://github.com/user-attachments/assets/9c18506e-319b-40f1-9f31-6caea5bb62a6" /> <br />
     <span><b>Kookmin University</b>, B.S. in Electronic Engineering (2020.03 ~ 2026.02)</span>
+    <br/><br/> 
   </p>
 
   <p align="center">
     <img width="500" alt="FOSCAR" src="https://github.com/user-attachments/assets/50eae70f-486f-4056-bf4c-3ce3d5edb535" /> <br />
     <span><b>FOSCAR</b>, Autonomous Driving R&D Club (2023.12 ~ 2026.02)</span>
+    <br/><br/> 
   </p>
 
   <p align="center">
@@ -20,6 +22,7 @@
     <span>Baekjoon Online Judge</span>
   </p>
 </div>
+
 
 <br />
 <br />
