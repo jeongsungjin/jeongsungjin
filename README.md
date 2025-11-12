@@ -1,9 +1,15 @@
 <h2 align="center">💼 My Career 💼</h2>
 <p align="center">
   <b>Autonomous Driving & Network Systems Researcher</b> <br/>
+  <p align="center">
+    <img width="498" height="141" alt="Image" src="https://github.com/user-attachments/assets/9c18506e-319b-40f1-9f31-6caea5bb62a6" />
+  </p>
   국민대학교 전자공학부 (2020.03 ~ 2026.02) | 광대역통신 연구실 학부연구생 <br/>
+  <p align="center">
+    <img width="496" height="211" alt="Image" src="https://github.com/user-attachments/assets/50eae70f-486f-4056-bf4c-3ce3d5edb535" />  </p>
+  </p>
   자율주행 동아리 <b>FOSCAR</b> (2023.12 ~ 2026.02)
-</p>
+
 
 <br/>
 
