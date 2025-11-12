@@ -38,11 +38,8 @@
     <img src="https://img.shields.io/badge/ROS1/ROS2-22314e.svg?style=for-the-badge&logo=ros&logoColor=white" />
     <img src="https://img.shields.io/badge/MATLAB-ffcc00.svg?style=for-the-badge&logo=mathworks&logoColor=black" />
     <img src="https://img.shields.io/badge/Simulink-fdbe85.svg?style=for-the-badge&logo=simulink&logoColor=black" /> <br />
-    <img src="https://img.shields.io/badge/MORAI Simulator-000000.svg?style=for-the-badge&logo=MEGA" />
-    <img src="https://img.shields.io/badge/CARLA Simulator-00599c.svg?style=for-the-badge&logo=carla" /> <br />
-    <img src="https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-f05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/MORAI-000000.svg?style=for-the-badge&logo=MEGA" />
+    <img src="https://img.shields.io/badge/CARLA-00599c.svg?style=for-the-badge&logo=carla" /> <br />
     <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/CANoe-0E83CD.svg?style=for-the-badge&logo=vector&logoColor=white" />
   </p>
