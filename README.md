@@ -17,6 +17,7 @@
     <a href="https://solved.ac/okjsj0222">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=okjsj0222" width="500" />
     </a> <br />
+    <span>Baekjoon Online Judge</span>
   </p>
 </div>
 
@@ -24,7 +25,7 @@
 <br />
 
 <div>
-  <h3 align="center">🧠 Tech Stack 🧠</h3>
+  <h3 align="center">🖥️ Tech Stack 🖥️</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/C++-00599c.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white" />
