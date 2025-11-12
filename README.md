@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Seongjin Jeong</h2>
+<h2 align="center">💼 My Career 💼</h2>
 <p align="center">
   <b>Autonomous Driving & Network Systems Researcher</b> <br/>
   국민대학교 전자공학부 (2020.03 ~ 2026.02) | 광대역통신 연구실 학부연구생 <br/>
@@ -6,10 +6,6 @@
 </p>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seongjinjeong&label=Visitors&color=0e75b6&style=flat" />
-</div>
 
 ---
 
@@ -72,15 +68,6 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seongjinjeong&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjinjeong&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="center">📚 Publications & Awards</h3>
 
 <p align="center">
@@ -88,17 +75,4 @@
   🏆 <b>최우수상</b> (AutoRace 자율주행 경진대회, AWS DeepRacer) <br/>
   🥇 <b>캡스톤 디자인 어워드 1위</b> <br/>
   🥈 <b>HL FMA 자율주행 경진대회 장려상</b>
-</p>
-
----
-
-<h3 align="center">🔗 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/seongjinjeong/scale-car">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seongjinjeong&repo=scale-car&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/seongjinjeong/brake-by-ethernet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seongjinjeong&repo=brake-by-ethernet&theme=tokyonight" />
-  </a>
 </p>
